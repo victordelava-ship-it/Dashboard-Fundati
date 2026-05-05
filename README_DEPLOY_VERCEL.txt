@@ -5,8 +5,8 @@ Arquivos para enviar ao Vercel:
 - vercel.json
 
 Base usada nesta geração:
-- sem dados locais; estrutura gerada vazia
-- período de referência: Maio/2026
+- C:\Users\FUNDATI\Desktop\DASHBOARD\APP\APLICATIVO\APP\dist\historico_producao.csv
+- período de referência: Abril/2026
 
 Atualização mensal:
 1. Substitua o arquivo historico_producao.csv na pasta do projeto.
